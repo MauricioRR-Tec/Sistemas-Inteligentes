@@ -1,6 +1,6 @@
 # Programación en Python
 
-En este módulo, se presentan las bases de Python como lenguaje de programación de propósito general y las herramientas comúnmente utilizadas para el cómputo científico en Python, NumPy, Pandas y librerías para la visualización de datos.
+En este módulo, se presentan las bases de Python como lenguaje de programación de propósito general.
 
 El contenido del módulo 1 se divide en los siguientes sub-módulos:
 
